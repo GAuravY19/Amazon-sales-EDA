@@ -1,1 +1,1 @@
-# Amazon-sales-EDA
+# Amazon sales EDA
